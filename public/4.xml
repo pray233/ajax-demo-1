@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <message>
-    <warning>
-         Hello World
-    </warning>
+	<warning>
+		This is 4.xml request
+	</warning>
 </message>
